@@ -26,9 +26,8 @@
     "BACKGROUND_FLOATING": ["#222222"]
   },
   "rawColors": {
-    "PRIMARY_100": "#FFFFFF",  // Replace with your desired color
-    "PRIMARY_200": "#CCCCCC",  // Replace with your desired color
-    // Add more as needed
+    "PRIMARY_100": "#FFFFFF",  
+    "PRIMARY_200": "#CCCCCC",
   },
   "backgroundImage": {
     "blur": 0,
