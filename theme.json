@@ -9,7 +9,7 @@
   "semanticColors": {
     "HEADER_PRIMARY": ["#000000"],
     "HEADER_SECONDARY": ["#000000"],
-    "TEXT_NORMAL": ["#FFFFFF"],  // White text
+    "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_MUTED": ["#5E5E5E"],
     "TEXT_LINK": ["#FFD700"],
     "INTERACTIVE_NORMAL": ["#00FF00"],
@@ -59,7 +59,7 @@
     "BRAND_360": "#BF96D0",
     "BRAND_500": "#866195",
     "BRAND_560": "#BF96D0",
-    "WHITE_500": "#FFFFFF",  // White
+    "WHITE_500": "#FFFFFF",
     "YELLOW_300": "#FFD700",
     "GREEN_360": "#00FF00",
     "RED_400": "#FF0000"
