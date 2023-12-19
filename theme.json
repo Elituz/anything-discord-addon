@@ -3,17 +3,6 @@
   "version": "1.0",
   "description": "Custom theme for Vendetta",
   "author": "Elitus",
-  "theme": {
-    "--background-primary": "#000000",
-    "--text-normal": "#FFFFFF",
-    "--text-link": "#00FF00",
-    "--interactive-normal": "#00FF00",
-    "--interactive-hover": "#00CC00",
-    "--interactive-active": "#005500",
-    "--background-secondary": "#2C2F33",
-    "--background-accent": "#00FF00",
-    "--background-floating": "#222222"
-  },
   "semanticColors": {
     "HEADER_PRIMARY": ["#000000"],
     "TEXT_NORMAL": ["#FFFFFF"],
@@ -24,10 +13,6 @@
     "BACKGROUND_PRIMARY": ["#2C2F33"],
     "BACKGROUND_ACCENT": ["#00FF00"],
     "BACKGROUND_FLOATING": ["#222222"]
-  },
-  "rawColors": {
-    "PRIMARY_100": "#FFFFFF",  
-    "PRIMARY_200": "#CCCCCC",
   },
   "backgroundImage": {
     "blur": 0,
