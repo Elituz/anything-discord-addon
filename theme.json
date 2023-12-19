@@ -1,78 +1,36 @@
 {
-  "name": "Kotikovtheme",
-  "description": "Based on Purpdark V3, by @vve1",
-  "authors": [
-    {
-      "name": "@kotru21"
-    }
-  ],
-  "semanticColors": {
-    "HEADER_PRIMARY": ["#000000"],
-    "HEADER_SECONDARY": ["#000000"],
-    "TEXT_NORMAL": ["#FFFFFF"],
-    "TEXT_MUTED": ["#5E5E5E"],
-    "TEXT_LINK": ["#FFD700"],
-    "INTERACTIVE_NORMAL": ["#00FF00"],
-    "INTERACTIVE_HOVER": ["#00FF00"],
-    "INTERACTIVE_ACTIVE": ["#00FF00"],
-    "INTERACTIVE_MUTED": ["#5F5160"],
-    "BACKGROUND_PRIMARY": ["#000000"],
-    "BACKGROUND_SECONDARY": ["#222222"],
-    "BACKGROUND_SECONDARY_ALT": ["#222222"],
-    "BACKGROUND_TERTIARY": ["#000000"],
-    "BACKGROUND_ACCENT": ["#00FF00"],
-    "BACKGROUND_FLOATING": ["#222222"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#222222"],
-    "BACKGROUND_NESTED_FLOATING": ["#222222"],
-    "BACKGROUND_MESSAGE_HOVER": ["#000000"],
-    "BACKGROUND_MODIFIER_HOVER": ["#000000"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#484848"],
-    "SCROLLBAR_THIN_THUMB": ["#26273b"],
-    "SCROLLBAR_THIN_TRACK": ["transparent"],
-    "SCROLLBAR_AUTO_THUMB": ["#00FF00"],
-    "SCROLLBAR_AUTO_TRACK": ["#00FF00"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#000000"],
-    "CHANNELS_DEFAULT": ["#90769E"],
-    "TEXT_DANGER": ["#FF0000"],
-    "KEYBOARD": ["#000000"],
-    "CHANNEL_ICON": ["#FFFFFF"],
-    "CHAT_BACKGROUND": ["#000000"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
-    "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
+  "name": "Vendetta Theme",
+  "version": "1.0",
+  "description": "Custom theme for Vendetta",
+  "author": "Your Name",
+  "theme": {
+    "--background-primary": "#000000",
+    "--text-normal": "#FFFFFF",
+    "--text-muted": "#B0B0B0",
+    "--text-link": "#00FF00",
+    "--interactive-normal": "#00FF00",
+    "--interactive-hover": "#00CC00",
+    "--interactive-active": "#005500",
+    "--background-secondary": "#2C2F33",
+    "--background-accent": "#00FF00",
+    "--background-floating": "#222222",
+    "--background-message-hover": "#000000",
+    "--background-modifier-hover": "#000000",
+    "--background-modifier-active": "#67427D",
+    "--background-modifier-selected": "#67427D",
+    "--background-modifier-accent": "#484848",
+    "--scrollbar-thin-thumb": "#26273b",
+    "--scrollbar-thin-track": "transparent",
+    "--scrollbar-auto-thumb": "#00FF00",
+    "--scrollbar-auto-track": "#00FF00"
   },
-  "rawColors": {
-    "PRIMARY_100": "#F2D8FD",
-    "PRIMARY_200": "#947592",
-    "PRIMARY_300": "#00FF00",
-    "PRIMARY_360": "#BF96D0",
-    "PRIMARY_400": "#7114EE",
-    "PRIMARY_500": "#5F3A70",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#2F2F2F",
-    "PRIMARY_660": "#2F2F2F",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000",
-    "BRAND_260": "#866195",
-    "BRAND_360": "#BF96D0",
-    "BRAND_500": "#866195",
-    "BRAND_560": "#BF96D0",
-    "WHITE_500": "#FFFFFF",
-    "YELLOW_300": "#FFD700",
-    "GREEN_360": "#00FF00",
-    "RED_400": "#FF0000"
-  },
-  "spec": 2,
-  "background": {
+  "backgroundImage": {
     "blur": 0,
     "url": "https://i.pinimg.com/originals/ec/61/5e/ec615ea96cec7293eb8d81c0b1a9ed17.jpg",
-    "alpha": 0.9,
-    "color": "#000000"
+    "alpha": 0.9
   },
   "font": {
     "family": "Montserrat",
-    "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap"
+    "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
   }
 }
