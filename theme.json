@@ -19,7 +19,6 @@
     "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
     "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
     "BACKGROUND_MODIFIER_ACCENT": ["#484848"]
-    // Add more as needed
   },
   "rawColors": {
     "--background-primary": "#000000",
@@ -37,7 +36,6 @@
     "--background-modifier-active": "#67427D",
     "--background-modifier-selected": "#67427D",
     "--background-modifier-accent": "#484848"
-    // Add more as needed
   },
   "backgroundImage": {
     "blur": 0,
