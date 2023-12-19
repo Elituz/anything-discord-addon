@@ -71,7 +71,8 @@
     "alpha": 0.9,
     "color": "#000000"
   },
-  "font": {
-    "family": "Montserrat"
-  }
+"font": {
+  "family": "Montserrat",
+  "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap"
+}
 }
