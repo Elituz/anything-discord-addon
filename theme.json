@@ -3,7 +3,25 @@
   "version": "1.0",
   "description": "Custom theme for Vendetta",
   "author": "Your Name",
-  "theme": {
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#000000"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_MUTED": ["#B0B0B0"],
+    "TEXT_LINK": ["#00FF00"],
+    "INTERACTIVE_NORMAL": ["#00FF00"],
+    "INTERACTIVE_HOVER": ["#00CC00"],
+    "INTERACTIVE_ACTIVE": ["#005500"],
+    "BACKGROUND_PRIMARY": ["#2C2F33"],
+    "BACKGROUND_ACCENT": ["#00FF00"],
+    "BACKGROUND_FLOATING": ["#222222"],
+    "BACKGROUND_MESSAGE_HOVER": ["#000000"],
+    "BACKGROUND_MODIFIER_HOVER": ["#000000"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#484848"]
+    // Add more as needed
+  },
+  "rawColors": {
     "--background-primary": "#000000",
     "--text-normal": "#FFFFFF",
     "--text-muted": "#B0B0B0",
@@ -18,11 +36,8 @@
     "--background-modifier-hover": "#000000",
     "--background-modifier-active": "#67427D",
     "--background-modifier-selected": "#67427D",
-    "--background-modifier-accent": "#484848",
-    "--scrollbar-thin-thumb": "#26273b",
-    "--scrollbar-thin-track": "transparent",
-    "--scrollbar-auto-thumb": "#00FF00",
-    "--scrollbar-auto-track": "#00FF00"
+    "--background-modifier-accent": "#484848"
+    // Add more as needed
   },
   "backgroundImage": {
     "blur": 0,
