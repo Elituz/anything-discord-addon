@@ -5,7 +5,7 @@
   "author": "Elitus",
   "semanticColors": {
     "HEADER_PRIMARY": ["#000000"],
-    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#000000"],
     "TEXT_LINK": ["#00FF00"],
     "INTERACTIVE_NORMAL": ["#00FF00"],
     "INTERACTIVE_HOVER": ["#00CC00"],
