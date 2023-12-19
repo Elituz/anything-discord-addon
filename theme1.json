@@ -1,0 +1,66 @@
+{
+  "name": "Vendetta Theme",
+  "version": "1.0",
+  "description": "Custom theme for Vendetta",
+  "author": "Your Name",
+  "theme": {
+    "background": "#000000",
+    "primaryText": "#FFFFFF",
+    "secondaryText": "#B0B0B0",
+    "tertiaryText": "#72767D",
+    "mentionDetail": "#F04747",
+    "mentionMe": "#F04747",
+    "linkColor": "#00FF00",  // Green
+    "hoverColor": "#00CC00",  // Darker Green
+    "selectionBackground": "#6A7AD4",
+    "selectionForeground": "#FFFFFF",
+    "roleMentionBackground": "#5865F2",
+    "roleMentionForeground": "#FFFFFF",
+    "mentionHighlight": "#FF0000",
+    "buttonBackground": "#00FF00",  // Green
+    "buttonHoverBackground": "#00CC00",  // Darker Green
+    "buttonActiveBackground": "#005500",  // Dark Green
+    "buttonForeground": "#FFFFFF",
+    "buttonDisabledBackground": "#003300",  // Darker Green
+    "buttonDisabledForeground": "#747FAC",
+    "channelTextArea": {
+      "background": "#222222",  // Darker background
+      "text": "#FFFFFF"
+    },
+    "messageGroup": {
+      "background": "#2C2F33",
+      "border": "#00FF00"  // Green border
+    },
+    "userPopout": {
+      "background": "#36393F",
+      "text": "#FFFFFF"
+    },
+    "guildHeader": {
+      "background": "#2C2F33",
+      "text": "#FFFFFF"
+    },
+    "memberList": {
+      "background": "#2C2F33",
+      "text": "#FFFFFF",
+      "avatarBorder": "#00FF00",  // Green border
+      "statusOnline": "#43B581",
+      "statusIdle": "#FAA61A",
+      "statusDoNotDisturb": "#F04747",
+      "statusStreaming": "#593695",
+      "statusOffline": "#747F8D",
+      "statusInvisible": "#747F8D",
+      "statusBackground": "#2C2F33",
+      "statusBackgroundHover": "#40444B"
+    }
+    // Add more styles for specific elements as needed
+  },
+  "backgroundImage": {
+    "blur": 0,
+    "url": "https://i.pinimg.com/originals/ec/61/5e/ec615ea96cec7293eb8d81c0b1a9ed17.jpg",
+    "alpha": 0.9
+  },
+  "font": {
+    "family": "Montserrat",
+    "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+  }
+}
